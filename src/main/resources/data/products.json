@@ -1,0 +1,302 @@
+[
+  {
+    "name": "EcoHub Smart Home Gateway",
+    "category": "Electronics",
+    "price": 149.99,
+    "discountPrice": 119.99
+  },
+  {
+    "name": "SoundCore Wireless Earbuds",
+    "category": "Electronics",
+    "price": 89.00,
+    "discountPrice": 65.00
+  },
+  {
+    "name": "UltraVision 4K Projector",
+    "category": "Electronics",
+    "price": 599.00,
+    "discountPrice": 499.00
+  },
+  {
+    "name": "SwiftCharge Power Bank (20k)",
+    "category": "Electronics",
+    "price": 45.00,
+    "discountPrice": 38.00
+  },
+  {
+    "name": "NanoTab 10\" Tablet",
+    "category": "Electronics",
+    "price": 299.00,
+    "discountPrice": 249.00
+  },
+  {
+    "name": "Precision Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 120.00,
+    "discountPrice": 95.00
+  },
+  {
+    "name": "FlowStream Mesh Router",
+    "category": "Electronics",
+    "price": 180.00,
+    "discountPrice": 160.00
+  },
+  {
+    "name": "Titan Gaming Mouse",
+    "category": "Electronics",
+    "price": 60.00,
+    "discountPrice": 45.00
+  },
+  {
+    "name": "Clarity Noise-Canceling Headset",
+    "category": "Electronics",
+    "price": 210.00,
+    "discountPrice": 185.00
+  },
+  {
+    "name": "PixelStream Webcam 4K",
+    "category": "Electronics",
+    "price": 130.00,
+    "discountPrice": 110.00
+  },
+  {
+    "name": "AeroFry Digital Air Fryer",
+    "category": "Home & Kitchen",
+    "price": 129.00,
+    "discountPrice": 99.00
+  },
+  {
+    "name": "BrewMaster Espresso Machine",
+    "category": "Home & Kitchen",
+    "price": 450.00,
+    "discountPrice": 395.00
+  },
+  {
+    "name": "PureGlow LED Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 35.00,
+    "discountPrice": 28.00
+  },
+  {
+    "name": "Arctic Mist Humidifier",
+    "category": "Home & Kitchen",
+    "price": 55.00,
+    "discountPrice": 42.00
+  },
+  {
+    "name": "SleepWell Memory Foam Pillow",
+    "category": "Home & Kitchen",
+    "price": 75.00,
+    "discountPrice": 60.00
+  },
+  {
+    "name": "FlexiSlice Mandoline Slicer",
+    "category": "Home & Kitchen",
+    "price": 30.00,
+    "discountPrice": 24.00
+  },
+  {
+    "name": "HydroPure Water Filter Pitcher",
+    "category": "Home & Kitchen",
+    "price": 40.00,
+    "discountPrice": 32.00
+  },
+  {
+    "name": "Radiant Non-Stick Pan Set",
+    "category": "Home & Kitchen",
+    "price": 150.00,
+    "discountPrice": 125.00
+  },
+  {
+    "name": "SwiftVac Robotic Vacuum",
+    "category": "Home & Kitchen",
+    "price": 350.00,
+    "discountPrice": 299.00
+  },
+  {
+    "name": "Chef’s Knife (8-inch Carbon Steel)",
+    "category": "Home & Kitchen",
+    "price": 85.00,
+    "discountPrice": 72.00
+  },
+  {
+    "name": "Peak Performance Running Shoes",
+    "category": "Apparel & Sports",
+    "price": 115.00,
+    "discountPrice": 85.00
+  },
+  {
+    "name": "EverDry Waterproof Jacket",
+    "category": "Apparel & Sports",
+    "price": 140.00,
+    "discountPrice": 110.00
+  },
+  {
+    "name": "ZenYoga Eco-Friendly Mat",
+    "category": "Apparel & Sports",
+    "price": 50.00,
+    "discountPrice": 40.00
+  },
+  {
+    "name": "IronGrip Kettlebell Set (20lb)",
+    "category": "Apparel & Sports",
+    "price": 90.00,
+    "discountPrice": 75.00
+  },
+  {
+    "name": "TrailBlazer Hiking Backpack",
+    "category": "Apparel & Sports",
+    "price": 125.00,
+    "discountPrice": 99.00
+  },
+  {
+    "name": "Velocity Cycling Jersey",
+    "category": "Apparel & Sports",
+    "price": 65.00,
+    "discountPrice": 52.00
+  },
+  {
+    "name": "CoreFit Compression Shorts",
+    "category": "Apparel & Sports",
+    "price": 35.00,
+    "discountPrice": 28.00
+  },
+  {
+    "name": "SkyLeap Portable Pickleball Net",
+    "category": "Apparel & Sports",
+    "price": 160.00,
+    "discountPrice": 135.00
+  },
+  {
+    "name": "AquaGuard Swim Goggles",
+    "category": "Apparel & Sports",
+    "price": 25.00,
+    "discountPrice": 18.00
+  },
+  {
+    "name": "SmartStride Fitness Tracker",
+    "category": "Apparel & Sports",
+    "price": 130.00,
+    "discountPrice": 95.00
+  },
+  {
+    "name": "GlowRevive Facial Serum",
+    "category": "Beauty & Health",
+    "price": 45.00,
+    "discountPrice": 38.00
+  },
+  {
+    "name": "SonicSmile Electric Toothbrush",
+    "category": "Beauty & Health",
+    "price": 95.00,
+    "discountPrice": 79.00
+  },
+  {
+    "name": "SilkTouch Hair Straightener",
+    "category": "Beauty & Health",
+    "price": 110.00,
+    "discountPrice": 88.00
+  },
+  {
+    "name": "ZenMist Essential Oil Diffuser",
+    "category": "Beauty & Health",
+    "price": 38.00,
+    "discountPrice": 30.00
+  },
+  {
+    "name": "PureQuartz Massage Roller",
+    "category": "Beauty & Health",
+    "price": 22.00,
+    "discountPrice": 15.00
+  },
+  {
+    "name": "VitalRoot Vitamin D3 (90 ct)",
+    "category": "Beauty & Health",
+    "price": 18.00,
+    "discountPrice": 14.00
+  },
+  {
+    "name": "AuraScent Organic Perfume",
+    "category": "Beauty & Health",
+    "price": 65.00,
+    "discountPrice": 55.00
+  },
+  {
+    "name": "HydroLock Overnight Mask",
+    "category": "Beauty & Health",
+    "price": 32.00,
+    "discountPrice": 26.00
+  },
+  {
+    "name": "DeepRelax Massage Gun",
+    "category": "Beauty & Health",
+    "price": 199.00,
+    "discountPrice": 149.00
+  },
+  {
+    "name": "BioClean Bamboo Toothbrush Set",
+    "category": "Beauty & Health",
+    "price": 12.00,
+    "discountPrice": 9.00
+  },
+  {
+    "name": "Infinite Horizons (Hardcover)",
+    "category": "Books & Media",
+    "price": 28.00,
+    "discountPrice": 21.00
+  },
+  {
+    "name": "CodeCraft: Python 2026 Guide",
+    "category": "Books & Media",
+    "price": 45.00,
+    "discountPrice": 35.00
+  },
+  {
+    "name": "Vinyl Revival: Jazz Classics",
+    "category": "Books & Media",
+    "price": 35.00,
+    "discountPrice": 29.00
+  },
+  {
+    "name": "Kids’ Creative Canvas Kit",
+    "category": "Toys & Hobbies",
+    "price": 40.00,
+    "discountPrice": 32.00
+  },
+  {
+    "name": "RoboBuild STEM Robot Kit",
+    "category": "Toys & Hobbies",
+    "price": 120.00,
+    "discountPrice": 99.00
+  },
+  {
+    "name": "StrategyMaster Board Game",
+    "category": "Toys & Hobbies",
+    "price": 55.00,
+    "discountPrice": 44.00
+  },
+  {
+    "name": "PixelPals Digital Pet",
+    "category": "Toys & Hobbies",
+    "price": 25.00,
+    "discountPrice": 20.00
+  },
+  {
+    "name": "Lumina Watercolor Set (48)",
+    "category": "Toys & Hobbies",
+    "price": 48.00,
+    "discountPrice": 38.00
+  },
+  {
+    "name": "SkyHigh Drone Explorer",
+    "category": "Toys & Hobbies",
+    "price": 250.00,
+    "discountPrice": 210.00
+  },
+  {
+    "name": "UrbanGardener Indoor Herb Kit",
+    "category": "Toys & Hobbies",
+    "price": 60.00,
+    "discountPrice": 48.00
+  }
+]
