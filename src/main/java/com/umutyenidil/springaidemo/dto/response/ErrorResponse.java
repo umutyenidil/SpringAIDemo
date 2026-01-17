@@ -23,7 +23,7 @@ public class ErrorResponse extends BaseResponse {
         return of(List.of(error));
     }
 
-    public static ErrorResponse of(String type, String subject, String message) {
+    public static ErrorResponse of(ErrorDetail.ErrorType type, ErrorDetail.ErrorSubject subject, String message) {
         return of(ErrorDetail.builder()
                 .type(type)
                 .subject(subject)

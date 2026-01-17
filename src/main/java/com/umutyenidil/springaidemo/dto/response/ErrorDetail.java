@@ -3,10 +3,17 @@ package com.umutyenidil.springaidemo.dto.response;
 import lombok.Builder;
 import lombok.Getter;
 
-@Getter
 @Builder
-public class ErrorDetail {
-    private String type;
-    private String subject;
-    private String message;
+public record ErrorDetail(
+        ErrorType type,
+        ErrorSubject subject,
+        String message
+) {
+    public enum ErrorType {
+        SERVER
+    }
+
+    public enum ErrorSubject {
+        SERVER
+    }
 }

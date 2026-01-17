@@ -19,6 +19,11 @@ public class AIConfig {
     }
 
     @Bean
+    public ChatClient.Builder ollamaChatClientBuilder(@Qualifier("ollamaChatModel") ChatModel chatModel) {
+        return ChatClient.builder(chatModel);
+    }
+
+    @Bean
     @Primary
     public EmbeddingModel embeddingModel(@Qualifier("openAiEmbeddingModel") OpenAiEmbeddingModel embeddingModel) {
         return embeddingModel;
