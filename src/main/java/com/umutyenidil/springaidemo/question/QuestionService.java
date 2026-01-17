@@ -1,12 +1,9 @@
 package com.umutyenidil.springaidemo.question;
 
-import com.umutyenidil.springaidemo.dto.response.SuccessResponse;
 import com.umutyenidil.springaidemo.exception.InternalServerException;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.Optional;
 
@@ -27,8 +24,14 @@ public class QuestionService {
     public QuestionDTO generateQuestion(
             Optional<String> topic
     ) {
+        String basePrompt = "Ask me a random question. there must be options on the questions to choose";
+
+        String userPrompt = topic
+                .map(t -> String.format("%s The question must be about %s.", basePrompt, t))
+                .orElse(basePrompt);
+
         var question = chatClient.prompt()
-                .user("Ask me a random question. there must be options on the questions to choose")
+                .user(userPrompt)
                 .call()
                 .entity(QuestionSchema.class);
 
